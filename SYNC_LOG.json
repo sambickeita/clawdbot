@@ -1,0 +1,311 @@
+{
+  "timestamp": "2026-01-30T18:21:05.256245",
+  "source_repo": "openclaw/openclaw",
+  "target_repo": "sambickeita/clawdbot",
+  "synced_commits": [
+    {
+      "sha": "6522de6c",
+      "action": "SYNC",
+      "reason": "Mise \u00e0 jour g\u00e9n\u00e9rale",
+      "priority": 1
+    },
+    {
+      "sha": "09be5d45",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "3fbf99d7",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "37e295fc",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "da71eaeb",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "8e5a6844",
+      "action": "SYNC",
+      "reason": "Mise \u00e0 jour g\u00e9n\u00e9rale",
+      "priority": 1
+    },
+    {
+      "sha": "b05d5796",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "fa9ec6e8",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "1168f598",
+      "action": "SYNC",
+      "reason": "Mise \u00e0 jour g\u00e9n\u00e9rale",
+      "priority": 1
+    },
+    {
+      "sha": "bc432d84",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "3a85cb18",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "7150268f",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "6af205a1",
+      "action": "SYNC",
+      "reason": "Mise \u00e0 jour g\u00e9n\u00e9rale",
+      "priority": 1
+    },
+    {
+      "sha": "9025da22",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "c6ddc95f",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "5e635c96",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "87267fad",
+      "action": "SYNC",
+      "reason": "Mise \u00e0 jour g\u00e9n\u00e9rale",
+      "priority": 1
+    },
+    {
+      "sha": "613724c2",
+      "action": "SYNC",
+      "reason": "Mise \u00e0 jour g\u00e9n\u00e9rale",
+      "priority": 1
+    },
+    {
+      "sha": "77e703c6",
+      "action": "SYNC",
+      "reason": "Mise \u00e0 jour g\u00e9n\u00e9rale",
+      "priority": 1
+    },
+    {
+      "sha": "62e4ad23",
+      "action": "SYNC",
+      "reason": "Mise \u00e0 jour g\u00e9n\u00e9rale",
+      "priority": 1
+    },
+    {
+      "sha": "23c42489",
+      "action": "SYNC",
+      "reason": "Mise \u00e0 jour g\u00e9n\u00e9rale",
+      "priority": 1
+    },
+    {
+      "sha": "c5d7d111",
+      "action": "SYNC",
+      "reason": "Mise \u00e0 jour g\u00e9n\u00e9rale",
+      "priority": 1
+    },
+    {
+      "sha": "12e8a841",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "4de0bae4",
+      "action": "SYNC",
+      "reason": "Mise \u00e0 jour g\u00e9n\u00e9rale",
+      "priority": 1
+    },
+    {
+      "sha": "ddad6558",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "bf6ec64f",
+      "action": "SYNC",
+      "reason": "Mise \u00e0 jour g\u00e9n\u00e9rale",
+      "priority": 1
+    },
+    {
+      "sha": "151ddd62",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "b9afa3d3",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "d9c81991",
+      "action": "SYNC",
+      "reason": "Mise \u00e0 jour g\u00e9n\u00e9rale",
+      "priority": 1
+    },
+    {
+      "sha": "9886fd1a",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "67918dc4",
+      "action": "SYNC",
+      "reason": "Mise \u00e0 jour g\u00e9n\u00e9rale",
+      "priority": 1
+    },
+    {
+      "sha": "a155e2f8",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "02576615",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "d47b4e6f",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "7d03cae6",
+      "action": "SYNC",
+      "reason": "Mise \u00e0 jour g\u00e9n\u00e9rale",
+      "priority": 1
+    },
+    {
+      "sha": "4583f886",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "c9fe0628",
+      "action": "SYNC",
+      "reason": "Mise \u00e0 jour g\u00e9n\u00e9rale",
+      "priority": 1
+    },
+    {
+      "sha": "78b98766",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "50d44d0b",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "cb4b3f74",
+      "action": "SYNC",
+      "reason": "Mise \u00e0 jour g\u00e9n\u00e9rale",
+      "priority": 1
+    },
+    {
+      "sha": "51520601",
+      "action": "SYNC",
+      "reason": "Mise \u00e0 jour g\u00e9n\u00e9rale",
+      "priority": 1
+    },
+    {
+      "sha": "06289b36",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "4b5514a2",
+      "action": "SYNC",
+      "reason": "Mise \u00e0 jour g\u00e9n\u00e9rale",
+      "priority": 1
+    },
+    {
+      "sha": "5f4715ac",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    },
+    {
+      "sha": "c41ea252",
+      "action": "SYNC",
+      "reason": "Am\u00e9lioration b\u00e9n\u00e9fique pour clawdbot",
+      "priority": 2
+    }
+  ],
+  "blocked_commits": [
+    {
+      "sha": "28f8d00e",
+      "action": "BLOCK",
+      "reason": "Rebranding/Branding - Non applicable \u00e0 clawdbot",
+      "priority": 0
+    },
+    {
+      "sha": "4ec9d988",
+      "action": "BLOCK",
+      "reason": "Rebranding/Branding - Non applicable \u00e0 clawdbot",
+      "priority": 0
+    },
+    {
+      "sha": "9a716078",
+      "action": "BLOCK",
+      "reason": "Rebranding/Branding - Non applicable \u00e0 clawdbot",
+      "priority": 0
+    }
+  ],
+  "review_commits": [
+    {
+      "sha": "f760aa30",
+      "action": "REVIEW",
+      "reason": "Breaking change - N\u00e9cessite r\u00e9vision manuelle",
+      "priority": 1
+    },
+    {
+      "sha": "6372242d",
+      "action": "REVIEW",
+      "reason": "Breaking change - N\u00e9cessite r\u00e9vision manuelle",
+      "priority": 1
+    }
+  ]
+}
